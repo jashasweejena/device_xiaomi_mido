@@ -14,4 +14,5 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/citrus_mido.mk
+    $(LOCAL_DIR)/citrus_mido.mk \
+    $(LOCAL_DIR)/full_mido.mk
